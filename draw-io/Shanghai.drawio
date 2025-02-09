@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
-    <mxGraphModel dx="840" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
         <mxCell id="7c3789c024ecab99-58" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server_storage;rounded=0;shadow=0;comic=0;" parent="1" vertex="1">
           <mxGeometry x="141" y="407.5" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="7c3789c024ecab99-76" value="CTL SD-WAN" style="html=1;fillColor=#CCCCCC;strokeColor=#CCCCCC;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#6881B3;rounded=0;shadow=0;comic=0;align=center;fontSize=28;" parent="1" vertex="1">
+        <mxCell id="7c3789c024ecab99-76" value="&lt;font color=&quot;#576c96&quot;&gt;CTL SD-WAN&lt;/font&gt;" style="html=1;fillColor=#CCE5FF;strokeColor=#CCE5FF;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#6881B3;rounded=0;shadow=0;comic=0;align=center;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="550" y="360" width="1180" height="470" as="geometry" />
         </mxCell>
         <mxCell id="7pducZbgJA7FLwBWW6aa-1" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#6881B3;rounded=0;shadow=0;comic=0;align=center;fontSize=28;" parent="1" vertex="1">
@@ -200,12 +200,12 @@
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;10.64.0.0/16&lt;/font&gt;" placeholders="1" name="Variable" id="7pducZbgJA7FLwBWW6aa-46">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="1916" y="360" width="80" height="20" as="geometry" />
+            <mxGeometry x="1902.5" y="360" width="104" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 16px;&quot;&gt;10.66.0.0/16&lt;/font&gt;" placeholders="1" name="Variable" id="7pducZbgJA7FLwBWW6aa-47">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="1916" y="800" width="80" height="20" as="geometry" />
+            <mxGeometry x="1901" y="800" width="104" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;10.52.0.0/16&lt;/font&gt;" placeholders="1" name="Variable" id="7pducZbgJA7FLwBWW6aa-48">
@@ -220,15 +220,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7pducZbgJA7FLwBWW6aa-50" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="770" y="480" width="90" height="39.5" as="geometry" />
+          <mxGeometry x="760" y="480" width="90" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="7pducZbgJA7FLwBWW6aa-52" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=2;" parent="7pducZbgJA7FLwBWW6aa-50" edge="1">
+        <mxCell id="7pducZbgJA7FLwBWW6aa-52" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFB570;strokeWidth=2;" parent="7pducZbgJA7FLwBWW6aa-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" as="sourcePoint" />
             <mxPoint as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 18px; color: rgb(255, 51, 51);&quot;&gt;10.0.0.0/8&lt;/font&gt;" placeholders="1" name="Variable" id="7pducZbgJA7FLwBWW6aa-51">
+        <UserObject label="&lt;font color=&quot;#ffb570&quot; style=&quot;font-size: 18px;&quot;&gt;10.0.0.0/8&lt;/font&gt;" placeholders="1" name="Variable" id="7pducZbgJA7FLwBWW6aa-51">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="7pducZbgJA7FLwBWW6aa-50" vertex="1">
             <mxGeometry y="5.25" width="90" height="29" as="geometry" />
           </mxCell>
@@ -251,6 +251,42 @@
             <mxPoint x="581" y="462.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jo4RON3jrlt6dIqicgMg-14" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#FFB570;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1996" y="446.25" width="30" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4RON3jrlt6dIqicgMg-15" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#FFB570;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="872.5" width="30" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jo4RON3jrlt6dIqicgMg-16" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#FFB570;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="472.5" width="30" height="27.5" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;172.16.66.0/24&lt;/font&gt;" placeholders="1" name="Variable" id="jo4RON3jrlt6dIqicgMg-17">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1840" y="905.5" width="140" height="29" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;172.16.64.0/24&lt;/font&gt;" placeholders="1" name="Variable" id="jo4RON3jrlt6dIqicgMg-18">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="1850" y="473.75" width="140" height="29" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jo4RON3jrlt6dIqicgMg-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.357;exitY=0.216;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jo4RON3jrlt6dIqicgMg-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1850" y="490" as="sourcePoint" />
+            <mxPoint x="1900" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jo4RON3jrlt6dIqicgMg-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.357;exitY=0.216;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1901" y="913" as="sourcePoint" />
+            <mxPoint x="1901" y="873" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;172.16.52.0/24&lt;/font&gt;" placeholders="1" name="Variable" id="jo4RON3jrlt6dIqicgMg-21">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="430" y="542.5" width="140" height="29" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
